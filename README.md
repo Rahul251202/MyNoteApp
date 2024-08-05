@@ -4,11 +4,12 @@ A simple and intuitive Notes App developed using Kotlin and XML in the MVVM arch
 
 ## Screenshots
 
-![DeleteApp](https://github.com/user-attachments/assets/b0b9a643-3606-4d30-b4c6-25b12e7c8c2e)
-![SearchNote](https://github.com/user-attachments/assets/528899e8-882f-46ea-9a74-25d77e545850)
 ![NoteAppHome](https://github.com/user-attachments/assets/9863cfd5-2090-4377-97c3-38ef23fde3db)
 ![ListNotes](https://github.com/user-attachments/assets/981f8c1f-71c8-41ca-ab66-a7afe9349149)
 ![UpdateNote](https://github.com/user-attachments/assets/9b33471d-7b86-4574-83c4-e4931fe99188)
+![DeleteApp](https://github.com/user-attachments/assets/b0b9a643-3606-4d30-b4c6-25b12e7c8c2e)
+![SearchNote](https://github.com/user-attachments/assets/528899e8-882f-46ea-9a74-25d77e545850)
+
 
 ## Features
 
